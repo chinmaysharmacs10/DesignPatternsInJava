@@ -1,3 +1,4 @@
+package Factory;
 
 class Point{
 
@@ -8,12 +9,12 @@ class Point{
         this.b = b;
     }
 
-    /*public static Point cartesianPoint(double x, double y){
-        return new Point(x,y);
+    /*public static Factory.Point cartesianPoint(double x, double y){
+        return new Factory.Point(x,y);
     }
 
-    public static Point polarPoint(double rho, double theta){
-        return new Point(rho*Math.cos(theta), rho*Math.sin(theta));
+    public static Factory.Point polarPoint(double rho, double theta){
+        return new Factory.Point(rho*Math.cos(theta), rho*Math.sin(theta));
     }*/
 
     public static class Factory{

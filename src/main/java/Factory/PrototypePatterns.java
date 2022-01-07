@@ -1,4 +1,5 @@
-import javax.naming.StringRefAddr;
+package Factory;
+
 import java.util.Arrays;
 
 class Address implements Cloneable {
@@ -17,7 +18,7 @@ class Address implements Cloneable {
 
     @Override
     public String toString() {
-        return "Address{" +
+        return "Factory.Address{" +
                 "streetName='" + streetName + '\'' +
                 ", houseNumber=" + houseNumber +
                 '}';
@@ -40,7 +41,7 @@ class Person implements Cloneable{
 
     @Override
     public String toString() {
-        return "Person{" +
+        return "Factory.Person{" +
                 "names=" + Arrays.toString(names) +
                 ", address='" + address + '\'' +
                 '}';
@@ -56,7 +57,7 @@ public class PrototypePatterns {
     public static void main(String[] args) throws CloneNotSupportedException{
         Person person = new Person(new String[]{"Chinmay","Sharma"}, new Address("Patna",10));
 
-        // Person neighbour = person; --> This will do just a shallow copy
+        // Factory.Person neighbour = person; --> This will do just a shallow copy
         Person neighbour = (Person) person.clone(); // This does a deep copy
 
         neighbour.names[0] = "Manaswi";
