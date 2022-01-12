@@ -27,5 +27,13 @@
     <orderEntry type="library" scope="TEST" name="Maven: org.junit.platform:junit-platform-commons:1.8.2" level="project" />
     <orderEntry type="library" scope="TEST" name="Maven: org.junit.jupiter:junit-jupiter-api:5.8.2" level="project" />
     <orderEntry type="library" scope="TEST" name="Maven: org.apiguardian:apiguardian-api:1.1.2" level="project" />
+    <orderEntry type="library" name="Maven: org.springframework.statemachine:spring-statemachine-core:3.0.1" level="project" />
+    <orderEntry type="library" name="Maven: org.springframework:spring-tx:5.3.8" level="project" />
+    <orderEntry type="library" name="Maven: org.springframework:spring-beans:5.3.8" level="project" />
+    <orderEntry type="library" name="Maven: org.springframework:spring-core:5.3.8" level="project" />
+    <orderEntry type="library" name="Maven: org.springframework:spring-jcl:5.3.8" level="project" />
+    <orderEntry type="library" name="Maven: org.springframework:spring-messaging:5.3.8" level="project" />
+    <orderEntry type="library" name="Maven: io.projectreactor:reactor-core:3.4.7" level="project" />
+    <orderEntry type="library" name="Maven: org.reactivestreams:reactive-streams:1.0.3" level="project" />
   </component>
 </module>
