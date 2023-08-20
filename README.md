@@ -1,1 +1,23 @@
 # Design Patterns In Java
+
+**Here's a list of all the Design Patterns I implemented in my journey of learning advanced coding concepts in Java.**
+1. [SOLID Principles](https://github.com/chinmaysharmacs10/DesignPatternsInJava/tree/master/src/main/java/SOLID)
+2. [Adapter](https://github.com/chinmaysharmacs10/DesignPatternsInJava/tree/master/src/main/java/Adapter)
+3. [Builder](https://github.com/chinmaysharmacs10/DesignPatternsInJava/tree/master/src/main/java/Builder)
+4. [Chain of Responsibility](https://github.com/chinmaysharmacs10/DesignPatternsInJava/tree/master/src/main/java/ChainOfResponsibility)
+5. [Command](https://github.com/chinmaysharmacs10/DesignPatternsInJava/tree/master/src/main/java/Command)
+6. [Composite](https://github.com/chinmaysharmacs10/DesignPatternsInJava/tree/master/src/main/java/Composite)
+7. [Decorator](https://github.com/chinmaysharmacs10/DesignPatternsInJava/tree/master/src/main/java/Decorator)
+8. [Facade](https://github.com/chinmaysharmacs10/DesignPatternsInJava/tree/master/src/main/java/Facade)
+9. [Factory](https://github.com/chinmaysharmacs10/DesignPatternsInJava/tree/master/src/main/java/Factory)
+10. [Interpreter](https://github.com/chinmaysharmacs10/DesignPatternsInJava/tree/master/src/main/java/Interpreter)
+11. [Iterator](https://github.com/chinmaysharmacs10/DesignPatternsInJava/tree/master/src/main/java/Iterator)
+12. [Mediator](https://github.com/chinmaysharmacs10/DesignPatternsInJava/tree/master/src/main/java/Mediator)
+13. [Memento](https://github.com/chinmaysharmacs10/DesignPatternsInJava/tree/master/src/main/java/Memento)
+14. [Null Object](https://github.com/chinmaysharmacs10/DesignPatternsInJava/tree/master/src/main/java/NullObject)
+15. [Observer](https://github.com/chinmaysharmacs10/DesignPatternsInJava/tree/master/src/main/java/Observer)
+16. [Proxy](https://github.com/chinmaysharmacs10/DesignPatternsInJava/tree/master/src/main/java/Proxy)
+17. [Singleton](https://github.com/chinmaysharmacs10/DesignPatternsInJava/tree/master/src/main/java/Singleton)
+18. [State](https://github.com/chinmaysharmacs10/DesignPatternsInJava/tree/master/src/main/java/State)
+19. [Strategy](https://github.com/chinmaysharmacs10/DesignPatternsInJava/tree/master/src/main/java/Strategy)
+20. [Visitor](https://github.com/chinmaysharmacs10/DesignPatternsInJava/tree/master/src/main/java/Visitor)
